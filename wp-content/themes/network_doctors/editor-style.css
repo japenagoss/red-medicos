@@ -1,0 +1,162 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    clear: both;
+}
+
+html {
+    overflow-y: scroll;
+    font-size: 100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section {
+    display: block;
+}
+
+img {
+    border: 0;
+    max-width: 100%;
+}
+
+#tinymce{
+    font-size: 1em;
+    line-height: 25px;
+    width: 907px;
+}
+
+#tinymce h1{
+    font-size: 2em;
+}
+
+#tinymce h2{
+    font-size: 1.7em;
+}
+
+#tinymce h3{
+    font-size: 1.4em;
+}
+
+#tinymce h4{
+    font-size: 1.2em;
+}
+
+#tinymce h5,
+#tinymce h6{
+    font-size: 1em;
+}
+
+.alignleft {
+    float: left;
+}
+
+.alignright {
+    float: right;
+}
+
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img.alignleft {
+    margin: 5px 20px 5px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 10px 5px 0;
+}
+
+img.alignright {
+    margin: 5px 0 5px 20px;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 5px 10px;
+}
+
+img.aligncenter {
+    margin: 5px auto;
+}
+
+img.alignnone {
+    margin: 5px 0;
+}
+
+#tinymce img,
+.entry-summary img,
+.comment-content img,
+.widget img,
+.wp-caption {
+    max-width: 100%;
+}
+
+#tinymce img,
+.entry-summary img,
+.comment-content img[height],
+img[class*="align"],
+img[class*="wp-image-"],
+img[class*="attachment-"] {
+    height: auto;
+}
+
+img.size-full,
+img.size-large,
+img.wp-post-image {
+    height: auto;
+    max-width: 100%;
+}
+
+.wp-caption .wp-caption-text,
+.entry-caption,
+.gallery-caption {
+    font-size: 0.875em;
+    color: #333333;
+    font-style: italic;
+    font-weight: 300;
+}
+
+img.wp-smiley,
+.rsswidget img {
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+}

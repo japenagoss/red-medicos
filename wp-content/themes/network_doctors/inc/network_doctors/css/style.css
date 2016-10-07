@@ -1,0 +1,36 @@
+.network-doctors-menu li{
+	margin: 0px;
+	padding: 0px;
+}
+
+.network-doctors-menu a{
+	display: block;
+	background-color: #E4E4E4;
+	margin: 0px;
+	padding: 10px;
+	border: solid #CCCCCC 1px;
+	color: #464646;
+	text-decoration: none;
+}
+
+.network-doctors-menu li a:hover{
+	background-color: #ffffff;
+}
+
+.network-doctors-menu li .network-doctors-content{
+	display: none;
+}
+
+.button-edit-red-medicos,
+.button-delete-red-medicos{
+	cursor: pointer;
+}
+
+.category-rdm div{
+	display: none;
+}
+
+.category-rdm h2{
+	cursor: pointer;
+	border-bottom: solid #808080 1px;
+}

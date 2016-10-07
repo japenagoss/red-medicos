@@ -1,0 +1,632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ne",
+				"network"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"con",
+				"container_fs"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"asse",
+				"assets"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/network_doctors/index.php",
+			"settings":
+			{
+				"buffer_size": 1757,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/network_doctors/page-global.php",
+			"settings":
+			{
+				"buffer_size": 364,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/network_doctors/inc/network_doctors/css/frontend.css",
+			"settings":
+			{
+				"buffer_size": 9328,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/network_doctors/functions.php",
+			"settings":
+			{
+				"buffer_size": 2489,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packe",
+				"Package Control: Remove Package"
+			],
+			[
+				"deisn",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/red-medicos",
+		"/C/wamp/www/red-medicos/wp-content",
+		"/C/wamp/www/red-medicos/wp-content/themes",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors",
+		"/C/wamp/www/red-medicos/wp-content/themes/twentyfifteen"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/css/home.css",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/header.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/style.css",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/css/style.css",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/functions.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/header-global.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/page-network.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/page-global.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/js/home.js",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/js/backgroundimg.js",
+		"/C/Users/Jhony/Downloads/Simple-jQuery-Background-Image-Slideshow-with-Fade-Transitions-Background-Cycle/Simple-jQuery-Background-Image-Slideshow-with-Fade-Transitions-Background-Cycle/index.html",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/js/background.cycle.min.js",
+		"/C/Users/Jhony/Downloads/Simple-jQuery-Background-Image-Slideshow-with-Fade-Transitions-Background-Cycle/Simple-jQuery-Background-Image-Slideshow-with-Fade-Transitions-Background-Cycle/js/background.cycle.js",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/css/nivo-slider.css",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/css/frontend.css",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/js/frontend.js",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/js/jquery.matchHeight-min.js",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/pages/settings.php",
+		"/C/Users/Jhony/Downloads/Nivo-Slider-master/Nivo-Slider-master/jquery.nivo.slider.js",
+		"/C/Users/Jhony/Downloads/Nivo-Slider-master/Nivo-Slider-master/jquery.nivo.slider.pack.js",
+		"/C/Users/Jhony/Downloads/mapfre/mapfre/js/backgroundimg.js",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/js/jquery.nivo.slider.js",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/controllers/front-end.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/model/request.php",
+		"/C/Users/Jhony/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Jhony/AppData/Local/Temp/fz3temp-1/request.php",
+		"/C/wamp/www/sweetpotato/wp-content/themes/sweetpotatoknowledge/content-home-new.php",
+		"/C/wamp/www/sweetpotato/wp-content/themes/sweetpotatoknowledge/front/parts/home/news.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/custom_post_type/custom_post_type.php",
+		"/C/Users/Jhony/Downloads/mapfre/mapfre/index.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/footer.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/pdf.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/model/mc_table.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/network_doctors.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/controllers/specialty.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/controllers/clinic.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/index.php",
+		"/C/wamp/www/sweetpotato/wp-content/themes/sweetpotatoknowledge/page-getstarted.php",
+		"/C/wamp/www/sweetpotato/wp-content/themes/sweetpotatoknowledge/project_map_display.php",
+		"/C/wamp/www/sweetpotato/wp-content/themes/sweetpotatoknowledge/admin/includes/controls.php",
+		"/C/wamp/www/sweetpotato/wp-content/themes/sweetpotatoknowledge/admin/metaboxes/pages-posts.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/pages/doctor.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/pages.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/js/custom.js",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/pages/clinic.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/pages/js_table.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/pages/configuracion.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/controllers/doctor.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/controllers/location.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/pages/location.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/model/class-form.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/pages/specialty.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/tabs.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/model/datatable/ssp.class.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/network_doctors/inc/network_doctors/model/class-data-base.php",
+		"/C/wamp/www/sweetpotato/wp-content/plugins/custom-registration/views/admin/edit_user/experts.php",
+		"/C/wamp/www/sweetpotato/wp-content/plugins/custom-registration/views/admin/edit_user/extra-information.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/functions.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/load_styles.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/js/custom.js",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/pages.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/tabs.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/red_medicos.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/load_js.php",
+		"/C/wamp/www/sweetpotato/wp-content/plugins/custom-registration/classes/settings.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/pages/clinica.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/model/class-form.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/model/class-data-base.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/pages/js_table.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/style.css",
+		"/C/wamp/www/sweetpotato/wp-content/plugins/custom-registration/custom-registration.php",
+		"/C/wamp/www/sweetpotato/wp-content/themes/sweetpotatoknowledge/admin/includes/settings.php",
+		"/C/wamp/www/sweetpotato/wp-content/themes/sweetpotatoknowledge/admin/index.php",
+		"/C/wamp/www/sweetpotato/wp-content/themes/sweetpotatoknowledge/admin/pages/index.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/custom_post_type/custom_post_type.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/libs/admin-page-framework.min.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/inc/red_medicos/controllers/clinica.php",
+		"/C/Users/Jhony/Downloads/mapfre/mapfre/header-red_medicos.php",
+		"/C/Users/Jhony/Downloads/mapfre/mapfre/functions.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/index.php",
+		"/C/Users/Jhony/Downloads/mapfre/mapfre/template-red_medicos.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/header.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red_medicos/footer.php",
+		"/C/Users/Jhony/Downloads/mapfre/mapfre/footer-red_medicos.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/twentyfifteen/header.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/twentyfifteen/footer.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/twentyfifteen/index.php",
+		"/C/wamp/www/red-medicos/wp-content/themes/red-medicos/style.css",
+		"/C/wamp/www/red-medicos/wp-content/themes/twentythirteen/style.css",
+		"/C/wamp/www/bonappetitcolombia/wp-content/plugins/prdctfltr/prdctfltr.php",
+		"/C/wamp/www/bonappetitcolombia/wp-content/plugins/prdctfltr/lib/pf-shortcode.php",
+		"/C/wamp/www/bonappetitcolombia/wp-config.php",
+		"/C/Users/Jhony/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Jhony/AppData/Local/Temp/fz3temp-1/shortcodes.php",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/front-page.php",
+		"/C/Users/Jhony/AppData/Local/Temp/fz3temp-1/error_log 2",
+		"/C/Users/Jhony/AppData/Local/Temp/fz3temp-1/error_log",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/header.php",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/src/sass/_header.scss",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/search.php",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/taxonomy-travels.php",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/content-speaker.php",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/page-speakers.php",
+		"/C/wamp/www/macmillan/wp-content/themes/twentyfifteen/search.php",
+		"/C/wamp/bin/apache/apache2.4.9/bin/php.ini",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/wamp/bin/php/php5.5.12/php.ini",
+		"/C/Users/Jhony/Downloads/speaker.pnl",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/single-speaker.php",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/src/sass/_author.scss",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/src/sass/_frontpage.scss",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/src/sass/_footer.scss",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/src/sass/_general.scss",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/page.php",
+		"/C/wamp/www/macmillan/wp-content/plugins/fix_sub_titles/index.php",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/functions.php",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/admin/shortcodes.php",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/taxonomy-topics.php",
+		"/C/wamp/www/macmillan/wp-content/themes/mc-millian/header-alphabethic.php",
+		"/C/wamp/www/macmillan/wp-content/themes/mc-millian/header-speaker.php",
+		"/C/wamp/www/macmillan/wp-content/themes/mc-millian/header-search.php",
+		"/C/wamp/www/macmillan/wp-content/themes/mc-millian/page-speakers.php",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/src/sass/main.scss",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/src/sass/_forms.scss",
+		"/C/wamp/www/macmillan/wp-content/themes/macmillian/footer.php",
+		"/C/wamp/www/sweetpotato/wp-content/plugins/custom-registration/assets/source/js/front.js",
+		"/C/wamp/www/sweetpotato/wp-content/themes/sweetpotatoknowledge/assets/sweepotato/source/less/find-excerpt.less",
+		"/C/wamp/www/sweetpotato/wp-content/themes/sweetpotatoknowledge/front/parts/footer/information-and-find-expert.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\bonappetitcolombia\\wp-content\\plugins"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"global_header",
+			"line",
+			"paddin",
+			"margin",
+			"padding-bottom",
+			"options_home_container",
+			"slides_container",
+			"listado",
+			"list_red_medicos",
+			"glogal",
+			"generateImageControl",
+			"your-plugin-textdomain",
+			"filter",
+			"simple",
+			"subMenuItemConfiguration",
+			"$columns",
+			"prdctfltr_sc_products",
+			"myMulti_Array_Search",
+			"set_last_name",
+			"speakers_by_topic_shortcod",
+			"speakers_by_topic_shortcode",
+			"topics_shortcode",
+			"question_f",
+			"hot_topic_shortcode",
+			"myMulti_Array_Search",
+			"set_last_name",
+			"#site-navigation",
+			"3M",
+			"3",
+			"Maximum",
+			"upload_max_filesize ",
+			"subtitle",
+			"black ",
+			"black",
+			"black ",
+			"ed3b2c",
+			"img-container",
+			"myMulti_Array_Search",
+			"set_last_name",
+			"widget_text",
+			"hot_topic",
+			"content-form-contact-us",
+			"page-title",
+			"require TEMPLATE_DIRECTORY.'/admin/pages/index.php';",
+			"Listen 80",
+			"Allow fro",
+			"Allow from 127.0.0.1",
+			"Directory",
+			"local",
+			"Directory ",
+			"Allow from",
+			"generate_menu",
+			"image",
+			"image-two",
+			"@screen-sm-max",
+			"make-md-column",
+			"@screen-sm-max",
+			"pointer_2",
+			"@screen-md-max",
+			"@screen-sm-max",
+			"root",
+			"php"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"global",
+			"network_doctors"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/network_doctors/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								97
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wp-content/themes/network_doctors/page-global.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-content/themes/network_doctors/inc/network_doctors/css/frontend.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9076,
+								9076
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 12952.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/network_doctors/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1386.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "red-medicos.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bui",
+				"C:\\wamp\\www\\buitron\\buitron.sublime-project"
+			],
+			[
+				"cip",
+				"C:\\wamp\\www\\cip\\cip.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 374.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

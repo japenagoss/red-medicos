@@ -1,0 +1,187 @@
+.slides_container{
+	width: 100%;
+	height: 100%;
+	position: fixed !important;
+}
+
+.options_home_container{
+	position: absolute;
+	z-index: 1000;
+	width: 980px;
+	left: 50%;
+	margin-left: -490px;
+}
+
+.options_home_container .logo{
+	background-image: url(../images/logo-mapfre.png);
+	width: 535px;
+    height: 92px;
+    margin: auto;
+}
+
+.options_home_container .description{
+	width: 554px;
+    margin: 30px auto 30px auto;
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Merriweather', serif;
+    text-shadow: 0px 1px 5px #6B6B6B;
+    font-size: 1em;
+    line-height: 26px;
+}
+
+.options_home_container .options{
+	display: inline-block;
+	width: 100%;
+}
+
+.options_home_container .options .option{
+	float: left;
+	width: 49%;
+	background-color: #ffffff;
+	padding: 30px;
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box;   
+	box-sizing: border-box;  
+	border-radius: 10px;
+	position: relative;
+}
+
+.options_home_container .options .option:last-child{
+	margin-left: 2%;
+}
+
+.options_home_container .options .option .container_title{
+	display: inline-block;
+}
+
+.options_home_container .options .option .container_title .icon{
+	float: left;
+	width: 77px;
+	height: 76px;
+	background-image: url(../images/icon.jpg);
+}
+
+.options_home_container .options .option .container_title .title{
+	float: left;
+    display: inline-block;
+    margin-top: 9px;
+    margin-left: 15px;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.875em;
+}
+
+.options_home_container .options .option .container_title .title h1{
+	font-weight: 300;
+}
+
+.options_home_container .options .option .container_title .title h2{
+	font-weight: 900;
+}
+
+.options_home_container .options .option .text{
+	clear: left;
+    font-family: 'Merriweather', serif;
+    font-size: 0.875em;
+    line-height: 25px;
+    margin-top: 10px;
+    padding-bottom: 50px;
+}
+
+.options_home_container .options .option .buttons{
+	position: absolute;
+	bottom: 0px;
+	padding-bottom: 30px;
+}
+
+.options_home_container .options .option .buttons a{
+	color: #ffffff;
+	background-color: #f40a0a;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 10px 0px;
+	font-size: 0.750em;
+	border-radius: 8px;
+	width: 170px;
+	display: inline-block;
+	text-align: center;
+}
+
+@media screen and (max-width:1000px){
+	.options_home_container{
+		width: 100%;
+		left: 0%;
+		margin-left: 0px;
+		padding: 20px 20px;
+		-webkit-box-sizing: border-box; 
+		-moz-box-sizing: border-box;   
+		box-sizing: border-box; 
+	}
+}
+
+@media screen and (max-width:880px){
+	.options_home_container .options .option .container_title{
+		display: block;
+	}
+
+	.options_home_container .options .option .container_title .icon{
+		float: none;
+		margin: auto;
+	}
+
+	.options_home_container .options .option .container_title .title{
+		float: none;
+		margin-top: 15px;
+		margin-left: 0px;
+		text-align: center;
+		width: 100%;
+	}
+
+	.options_home_container .options .option .text{
+		text-align: center;
+	}
+	
+	.options_home_container .options .option .buttons{
+		width: 170px;
+		left: 50%;
+		margin-left: -85px;
+	}
+
+	.options_home_container .options .option .buttons a{
+		display: inline-block;
+		text-align: center;
+	}
+
+	.options_home_container .options .option .buttons a:first-child{
+		margin-bottom: 10px;
+	}
+}
+
+@media screen and (max-width:600px){
+	.options_home_container .logo{
+		width: 100%;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+
+	.options_home_container .description{
+		width: 100%;
+	}
+
+	.options_home_container .options .option{
+		width: 100%;
+		float: none;
+	}
+
+	.options_home_container .options .option:last-child{
+		margin-left: 0px;
+		margin-top: 20px;
+	}
+
+	.options_home_container .options .option:first-child .text{
+		padding-bottom: 80px;
+	}
+}
